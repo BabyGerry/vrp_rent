@@ -5,7 +5,15 @@
 -----------------------       Copyright 2020       ----------------------  
 -----------------     Do not repost or sell this script     -------------
 -------------------------------------------------------------------------
+dependency "vrp"
 
-Change the coordinates LINE [ 3 ], [ 6 ], [ 51 ], [ 31,32,33 ], [ 49 ]
+client_scripts{ 
+  "lib/Tunnel.lua",
+  "lib/Proxy.lua",
+  "client.lua"
+}
 
-For more information [https://forum.cfx.re/t/vrp-rent-car-with-showcase-rainbow-color/1340363]
+server_scripts{ 
+  "@vrp/lib/utils.lua",
+  "server.lua"
+}
