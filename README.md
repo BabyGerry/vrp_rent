@@ -9,3 +9,5 @@
 Change the coordinates LINE [ 3 ], [ 6 ], [ 51 ], [ 31,32,33 ], [ 49 ]
 
 For more information [https://forum.cfx.re/t/vrp-rent-car-with-showcase-rainbow-color/1340363]
+
+DO NOT CHANGE NOTHIFING IF YOU DONT KNOW WHAT YOU CAN CHANGE
